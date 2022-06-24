@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Task.Models.Category>
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="container">
+    <div class="row">
+        <div class="col-8 offset-2">
+            <h1 class="text-center text-primary">Category Records</h1>
+            <a class="btn btn-sm btn-success m-1" asp-controller="Category" asp-action="Create">Create</a>
+            <p class="text-center text-success">@TempData["error"]</p>
+            <table class="table table-bordered">
+                <tr class="text-center">
+                    <th>CategoryID</th>
+                    <th>CategoryName</th>
+                    <th>IsActive</th>
+                    <th>ShowInWebsite</th>
+                    <th>ExpiryDate</th>
+                    <th>CategoryLogo</th>
+                </tr>
+                @foreach(var d in Model)
+                {.
+                    <tr class="text-center">
+                        <td>@d.CategoryID</td>
+                        <td>@d.CategoryName</td>
+                        <td>@d.IsActive</td>
+                        <td>@d.ShowInWebsite</td>
+                        <td>@d.ExpiryDate</td>
+                        <td>@d.CategoryLogo</td> 
+                        <td>
+                            <a class="btn btn-sm btn-warning" asp-controller="Category" asp-action="Edit" asp-route-id="@d.Id">Edit</a>
+                            <a class="btn btn-sm btn-danger" asp-controller="Category" asp-action="Delete" asp-route-id="@d.Id">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+</div>

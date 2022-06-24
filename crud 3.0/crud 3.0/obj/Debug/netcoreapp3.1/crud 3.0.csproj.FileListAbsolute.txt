@@ -1,0 +1,153 @@
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\appsettings.json
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\crud 3.0.exe
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\crud 3.0.deps.json
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\crud 3.0.runtimeconfig.json
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\crud 3.0.runtimeconfig.dev.json
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\crud 3.0.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\crud 3.0.pdb
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\crud 3.0.Views.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\crud 3.0.Views.pdb
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.csproj.AssemblyReference.cache
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.AssemblyInfoInputs.cache
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.AssemblyInfo.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.csproj.CoreCompileInputs.cache
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.RazorAssemblyInfo.cache
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.RazorAssemblyInfo.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\staticwebassets\crud 3.0.StaticWebAssets.Manifest.cache
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.TagHelpers.input.cache
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.TagHelpers.output.cache
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.RazorCoreGenerate.cache
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.RazorTargetAssemblyInfo.cache
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.RazorTargetAssemblyInfo.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.Views.pdb
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.csproj.CopyComplete
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.dll
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.pdb
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\crud 3.0.genruntimeconfig.cache
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+E:\New folder\crud 3.0\crud 3.0\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
